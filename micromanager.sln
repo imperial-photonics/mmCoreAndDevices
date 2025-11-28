@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36623.8 d17.14
+VisualStudioVersion = 17.14.36623.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MMCore", "MMCore\MMCore.vcxproj", "{36571628-728C-4ACD-A47F-503BA91C5D43}"
 EndProject
@@ -451,6 +451,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LightSheetManager", "DeviceAdapters\LightSheetManager\LightSheetManager.vcxproj", "{698AC26E-0AA3-4BD5-8E29-11BC931A88CF}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bartels_QuadKey", "..\..\Pre-fork MMcoreandDevices\mmCoreAndDevices\DeviceAdapters\Bartels_QuadKey_SK\Bartels_QuadKey.vcxproj", "{F672C519-01E4-4036-BFC4-89068975DC32}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NeoPixel_LED", "DeviceAdapters\NeoPixel_LED\NeoPixel_LED.vcxproj", "{1BCD16C7-84D4-40F7-8072-E9067310B39B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1358,6 +1360,10 @@ Global
 		{F672C519-01E4-4036-BFC4-89068975DC32}.Debug|x64.Build.0 = Debug|x64
 		{F672C519-01E4-4036-BFC4-89068975DC32}.Release|x64.ActiveCfg = Release|x64
 		{F672C519-01E4-4036-BFC4-89068975DC32}.Release|x64.Build.0 = Release|x64
+		{1BCD16C7-84D4-40F7-8072-E9067310B39B}.Debug|x64.ActiveCfg = Debug|x64
+		{1BCD16C7-84D4-40F7-8072-E9067310B39B}.Debug|x64.Build.0 = Debug|x64
+		{1BCD16C7-84D4-40F7-8072-E9067310B39B}.Release|x64.ActiveCfg = Release|x64
+		{1BCD16C7-84D4-40F7-8072-E9067310B39B}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
