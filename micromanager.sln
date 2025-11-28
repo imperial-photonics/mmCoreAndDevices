@@ -526,6 +526,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CairnOptoSpinUCSF", "Device
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bartels_QuadKey", "..\..\Pre-fork MMcoreandDevices\mmCoreAndDevices\DeviceAdapters\Bartels_QuadKey_SK\Bartels_QuadKey.vcxproj", "{F672C519-01E4-4036-BFC4-89068975DC32}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NeoPixel_LED", "DeviceAdapters\NeoPixel_LED\NeoPixel_LED.vcxproj", "{1BCD16C7-84D4-40F7-8072-E9067310B39B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1580,6 +1582,10 @@ Global
 		{F672C519-01E4-4036-BFC4-89068975DC32}.Debug|x64.Build.0 = Debug|x64
 		{F672C519-01E4-4036-BFC4-89068975DC32}.Release|x64.ActiveCfg = Release|x64
 		{F672C519-01E4-4036-BFC4-89068975DC32}.Release|x64.Build.0 = Release|x64
+		{1BCD16C7-84D4-40F7-8072-E9067310B39B}.Debug|x64.ActiveCfg = Debug|x64
+		{1BCD16C7-84D4-40F7-8072-E9067310B39B}.Debug|x64.Build.0 = Debug|x64
+		{1BCD16C7-84D4-40F7-8072-E9067310B39B}.Release|x64.ActiveCfg = Release|x64
+		{1BCD16C7-84D4-40F7-8072-E9067310B39B}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
