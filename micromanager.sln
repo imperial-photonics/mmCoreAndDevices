@@ -528,6 +528,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bartels_QuadKey", "..\..\Pr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NeoPixel_LED", "DeviceAdapters\NeoPixel_LED\NeoPixel_LED.vcxproj", "{1BCD16C7-84D4-40F7-8072-E9067310B39B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "openIncubate", "DeviceAdapters\openIncubate\openIncubate.vcxproj", "{9E032C5E-26E7-4149-B619-DB99C3BF2386}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1586,6 +1588,10 @@ Global
 		{1BCD16C7-84D4-40F7-8072-E9067310B39B}.Debug|x64.Build.0 = Debug|x64
 		{1BCD16C7-84D4-40F7-8072-E9067310B39B}.Release|x64.ActiveCfg = Release|x64
 		{1BCD16C7-84D4-40F7-8072-E9067310B39B}.Release|x64.Build.0 = Release|x64
+		{9E032C5E-26E7-4149-B619-DB99C3BF2386}.Debug|x64.ActiveCfg = Debug|x64
+		{9E032C5E-26E7-4149-B619-DB99C3BF2386}.Debug|x64.Build.0 = Debug|x64
+		{9E032C5E-26E7-4149-B619-DB99C3BF2386}.Release|x64.ActiveCfg = Release|x64
+		{9E032C5E-26E7-4149-B619-DB99C3BF2386}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
